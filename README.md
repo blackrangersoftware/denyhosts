@@ -10,7 +10,8 @@ Please refer to https://github.com/denyhosts/denyhosts for more information.
 
 Installation
 ============
-
+I have created a staging repo of the beta version that includes the packgaes for Redhat and Debian based systems
+Please refer to https://github.com/blackrangersoftware/DenyHosts-3.1.2-beta
 
 Requirements
 ------------
